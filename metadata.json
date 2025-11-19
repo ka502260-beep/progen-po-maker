@@ -1,0 +1,5 @@
+{
+  "name": "ProGen PO Maker",
+  "description": "A professional Purchase Order generator with real-time A4 preview, multi-currency support, and print-ready layout.",
+  "requestFramePermissions": []
+}
